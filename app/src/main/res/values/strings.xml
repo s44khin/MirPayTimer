@@ -1,3 +1,22 @@
 <resources>
-    <string name="app_name">MirPayTimer</string>
+    <string name="app_name">Mir Pay Timer</string>
+
+    <string name="mir">Mir</string>
+    <string name="pay">Pay</string>
+    <string name="mir_pay">Mir Pay</string>
+
+    <string name="settings_title">Settings</string>
+    <string name="settings_timer_title">Select timer</string>
+    <string name="settings_card_title">Card</string>
+    <string name="settings_enter_ms">Enter ms</string>
+    <string name="settings_choose_card">Choose card</string>
+
+    <string name="card_alpha_title">Alpha</string>
+    <string name="card_mts_title">MTS</string>
+    <string name="card_open_title">Open</string>
+    <string name="card_rosbank_title">Rosbank</string>
+    <string name="card_sber_title">Sber</string>
+    <string name="card_tinkoff_title">Tinkoff</string>
+    <string name="card_uralsib_title">Uralsib</string>
+    <string name="card_vtb_title">VTB</string>
 </resources>
